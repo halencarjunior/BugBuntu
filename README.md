@@ -60,3 +60,5 @@ Some installed tools:
 ## You can download the OVA (For Virtualbox) using the link below:
 
 [Download BugBuntu v0.1](https://tinyurl.com/BugBuntu01)
+
+Default login and pwd are bugbuntu:bugbuntu
