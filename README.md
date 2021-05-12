@@ -51,6 +51,12 @@ Some installed tools:
   - Tojson
   - getJS
 
+Screenshots:
+
+![BugBuntu](https://imgur.com/IvTEAiX)
+
+![BugBuntu](https://imgur.com/6cL505V)
+
 You can download the OVA (For Virtualbox) using the link below:
 
 [Download BugBuntu v0.1](https://tinyurl.com/BugBuntu01)
