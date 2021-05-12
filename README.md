@@ -53,9 +53,9 @@ Some installed tools:
 
 Screenshots:
 
-![BugBuntu](https://imgur.com/IvTEAiX)
+![BugBuntu](https://imgur.com/IvTEAiX.jpg)
 
-![BugBuntu](https://imgur.com/6cL505V)
+![BugBuntu](https://imgur.com/6cL505V.jpg)
 
 You can download the OVA (For Virtualbox) using the link below:
 
