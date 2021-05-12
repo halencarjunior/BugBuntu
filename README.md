@@ -61,4 +61,4 @@ Some installed tools:
 
 [Download BugBuntu v0.1](https://tinyurl.com/BugBuntu01)
 
-Default login and pwd are bugbuntu:bugbuntu
+Default login and pwd are bugbuntu:bugbuntu   
