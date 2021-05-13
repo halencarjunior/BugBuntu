@@ -59,8 +59,6 @@ Some installed tools:
 
 ## You can download the OVA (For Virtualbox) using the link below:
 
-[Download BugBuntu v0.1](https://tinyurl.com/BugBuntu01) (Via MEGA.NZ)
-
 [![Download BugBuntu](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bugbuntu/files/latest/download)
 
 [![Download BugBuntu](https://img.shields.io/sourceforge/dm/bugbuntu.svg)](https://sourceforge.net/projects/bugbuntu/files/latest/download)
