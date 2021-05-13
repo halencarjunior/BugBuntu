@@ -1,4 +1,4 @@
-# BugBuntu Linux
+# BugBuntu Linux v0.1.1
 
 Hello, this is our first alphabeta test version of BugBuntu
 
@@ -50,6 +50,11 @@ Some installed tools:
   - Goop
   - Tojson
   - getJS
+
+Other Tools Installed:
+  - nuclei
+  - InurlBR Scanner (New version by @MrCl0wnLab)
+  - jexboss
 
 ## Screenshots:
 
