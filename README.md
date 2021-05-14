@@ -1,4 +1,4 @@
-# BugBuntu Linux v0.1.1
+# BugBuntu Linux v0.1.2
 
 Hello, this is our first alphabeta test version of BugBuntu
 
@@ -50,6 +50,7 @@ Some installed tools:
   - Goop
   - Tojson
   - getJS
+  - x8
 
 Other Tools Installed:
   - nuclei
