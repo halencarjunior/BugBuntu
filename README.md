@@ -65,6 +65,8 @@ Other Tools Installed:
 
 ## You can download the OVA (For Virtualbox) using the link below:
 
+Via Sourceforge:
+
 [![Download BugBuntu](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bugbuntu/files/latest/download)
 
 [![Download BugBuntu](https://img.shields.io/sourceforge/dm/bugbuntu.svg)](https://sourceforge.net/projects/bugbuntu/files/latest/download)
@@ -72,6 +74,7 @@ Other Tools Installed:
 Torrent File: 
 
 [BugBuntu v.0.1.1 Torrent](https://github.com/halencarjunior/BugBuntu/raw/main/BugBuntu_v0_1_1.ova.torrent)
+
 [BugBuntu v.0.1.2 Torrent](https://github.com/halencarjunior/BugBuntu/raw/main/BugBuntu_v0_1_2.ova.torrent)
 
 Default login and pwd are bugbuntu:bugbuntu   
