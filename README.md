@@ -79,11 +79,10 @@ Torrent File:
 
 Default login and pwd are bugbuntu:bugbuntu   
 
-Collaborators:
+## Collaborators
 
   - [bt0](https://github.com/halencarjunior)
 
   - [MrCl0wn](https://github.com/MrCl0wnLab)
 
   - [OFJAAAH](https://github.com/KingOfBugbounty)
-  - 
