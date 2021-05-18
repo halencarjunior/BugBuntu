@@ -81,6 +81,9 @@ Default login and pwd are bugbuntu:bugbuntu
 
 Collaborators:
 
-[bt0](https://github.com/halencarjunior)
+  - [bt0](https://github.com/halencarjunior)
 
-[MrCl0wn](https://github.com/MrCl0wnLab)
+  - [MrCl0wn](https://github.com/MrCl0wnLab)
+
+  - [OFJAAAH](https://github.com/KingOfBugbounty)
+  - 
