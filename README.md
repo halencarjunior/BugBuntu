@@ -78,3 +78,9 @@ Torrent File:
 [BugBuntu v.0.1.2 Torrent](https://github.com/halencarjunior/BugBuntu/raw/main/BugBuntu_v0_1_2.ova.torrent)
 
 Default login and pwd are bugbuntu:bugbuntu   
+
+Collaborators:
+
+[bt0](https://github.com/halencarjunior)
+
+[MrCl0wn](https://github.com/MrCl0wnLab)
