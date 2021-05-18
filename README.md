@@ -67,9 +67,9 @@ Other Tools Installed:
 
 Via Sourceforge:
 
-[![Download BugBuntu](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bugbuntu/files/latest/download)
+[![Download BugBuntu](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/bugbuntu/)
 
-[![Download BugBuntu](https://img.shields.io/sourceforge/dm/bugbuntu.svg)](https://sourceforge.net/projects/bugbuntu/files/latest/download)
+[![Download BugBuntu](https://img.shields.io/sourceforge/dm/bugbuntu.svg)](https://sourceforge.net/projects/bugbuntu/)
 
 Torrent File: 
 
