@@ -45,6 +45,7 @@ Some installed tools:
   - Subfinder
   - SubJS
   - Unew
+  - Unfurl
   - WaybackURLs
   - Notify
   - Goop
