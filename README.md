@@ -72,11 +72,6 @@ Via Sourceforge:
 
 [![Download BugBuntu](https://img.shields.io/sourceforge/dm/bugbuntu.svg)](https://sourceforge.net/projects/bugbuntu/)
 
-Torrent File: 
-
-[BugBuntu v.0.1.1 Torrent](https://github.com/halencarjunior/BugBuntu/raw/main/BugBuntu_v0_1_1.ova.torrent)
-
-[BugBuntu v.0.1.2 Torrent](https://github.com/halencarjunior/BugBuntu/raw/main/BugBuntu_v0_1_2.ova.torrent)
 
 Default login and pwd are bugbuntu:bugbuntu   
 
